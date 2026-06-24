@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+__pycache__/
+*.pyc
+venv/
+.env
+
+uploaded_image.jpg
+
+.idea/
+.vscode/
+
+*.log
